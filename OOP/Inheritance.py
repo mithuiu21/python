@@ -30,3 +30,8 @@ m = MotorCycle()
 #m.general_usage()
 m.specific_usage()
 
+
+print(isinstance(c,Car))
+
+print(issubclass(Car,Vehicle))
+print(issubclass(Car,MotorCycle))
