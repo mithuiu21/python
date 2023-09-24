@@ -1,3 +1,4 @@
+#function
 def passingList(food):
     for x in food:
         print(x)
