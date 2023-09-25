@@ -1,3 +1,4 @@
+#Multiple Inheritance
 class Father():
     def gardening(self):
         print("I enjoy gardening")
